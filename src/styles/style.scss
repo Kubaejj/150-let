@@ -1,0 +1,28 @@
+@import url('./elements/normalize.css');
+@import url('./elements/typography.scss');
+@import url('./elements/colors.scss');
+
+
+@import url('./components/grid.scss');
+
+
+@import url('./animation.scss');
+@import url('./hamburger.scss');
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    // font-family: Roboto, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.img--responsive {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}

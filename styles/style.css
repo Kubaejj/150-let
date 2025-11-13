@@ -1,0 +1,1 @@
+@import url("./elements/normalize.css");@import url("./elements/typography.scss");@import url("./elements/colors.scss");@import url("./components/grid.scss");@import url("./animation.scss");@import url("./hamburger.scss");body{margin:0;padding:0}html{scroll-behavior:smooth}.img--responsive{border-radius:8px;height:100%;-o-object-fit:cover;object-fit:cover;width:100%}
